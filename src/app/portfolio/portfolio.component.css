@@ -1,0 +1,42 @@
+p{
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 3px;
+  
+    font: bold;
+    font-size: 1.3em;
+}
+.bootstrap{
+    background-color: #573D7C;
+    font-size: 1.1em;
+}
+.pad{
+    margin: 3px;
+}
+.javascript{
+    background-color: #F0DB4F;
+}
+.css{
+    background-color: #41A7D7;
+}
+.angular{
+    background-color: #D73231;
+}
+.skills{
+    height: 50px;
+    text-align:  center;
+    font-size: 30px;
+}
+.bars{
+    padding: 10px;
+}
+.project{
+    
+    background-color: red;
+    
+}
+.car{
+    border-radius: 10px;
+    padding: 10px;
+}
+

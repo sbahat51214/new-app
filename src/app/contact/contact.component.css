@@ -1,0 +1,13 @@
+label{
+    color: white;
+    font-size: 1.2em;
+}
+input,textarea{
+    width: 200%;
+}
+.left{
+    float: right;
+}
+form{
+    width: 47%;
+}
